@@ -1,4 +1,4 @@
-## ** Signify Video Call ** <br /> <br />
+# Signify Video Call <br /> <br />
 ### The aim of developing a real-time video call application is to accurately read the sign language and communicate with the signer in an automated sense, without having an expertise or even an introductory knowledge in that form of communication. It is real-time video call web application that recognize and extracts sign actions of the Sign Language from live video frame to frame by monitoring the continuous action movements performed by the signer. Signify Video Call helps the speech and hearing-impaired people communicate with each other easily and even the normal people can easily understand the conversation. <br /> <br />
 
 
@@ -23,7 +23,9 @@
 <b>Step 4.</b> 
 <pre>Run npm start in both server and client folder</pre>
 <br/><br/>
-## Screenshots <br/>
+
+## Screenshots 
+<br/>
 
 ![](https://user-images.githubusercontent.com/32827938/146651687-f851715c-0b99-4b7e-9969-4747e256e2dc.png) <br/><br/>
 ![](https://user-images.githubusercontent.com/32827938/146651689-3fb4c091-bad0-4bcc-a457-ce8e0c94a3ef.png) <br/><br/>
